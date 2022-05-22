@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Country Search App</string>
+    <string name="enter_country_edit_text">Country...</string>
+    <string name="find_button">Найти</string>
+    <string name="enter_request_text_view">Введите запрос</string>
+    <string name="capital_text_view">Столица:</string>
+    <string name="population_text_view">Население:</string>
+    <string name="area_text_view">Площадь:</string>
+    <string name="languages_text_view">Языки:</string>
+</resources>
